@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>陈玉岭的博客</title>
+  
+  <subtitle>好好学习 天天向上</subtitle>
+  <link href="https://chenyuling.top/atom.xml" rel="self"/>
+  
+  <link href="https://chenyuling.top/"/>
+  <updated>2021-11-14T17:13:06.998Z</updated>
+  <id>https://chenyuling.top/</id>
+  
+  <author>
+    <name>陈玉岭</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello</title>
+    <link href="https://chenyuling.top/2021/11/14/hello/"/>
+    <id>https://chenyuling.top/2021/11/14/hello/</id>
+    <published>2021-11-14T14:32:27.000Z</published>
+    <updated>2021-11-14T17:13:06.998Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1-一级"><a href="#1-一级" class="headerlink" title="1. 一级"></a>1. 一级</h1><p>546</p><p><em><strong>333</strong></em><br><em>546</em></p><hr><p><del>大神福利快</del>  </p><ul><li>sdf<ul><li>sdf<br>  * </li></ul></li><li></li></ul><blockquote><ol><li>sdf  <blockquote><pre><code>1.1 sdf  </code></pre></blockquote></li></ol><ul><li>sdf</li></ul></blockquote><pre><code>‘printf’函数内时代峰峻</code></pre><p><code>printf()</code><br><code>sdflkj</code>  </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">int i;  </span><br><span class="line">i = 0;  </span><br><span class="line">sdf;</span><br></pre></td></tr></table></figure><p>欢迎访问<a href="https://chenyuling.top/">陈玉岭主页</a><br><a href="https://chenyuling.top/">https://chenyuling.top</a><br>你可以访问[我的主页][cyl]<br>[cyl]: <a href="https://chenyuling.top/">https://chenyuling.top</a></p><p><img src="http://static.runoob.com/images/runoob-logo.png" alt="46"></p><p>|  表头   | 表头  |<br>|  ：—-：  | —-  |<br>| 单元格  | 单元格 |<br>| 单元格  | 单元格 |  </p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">graph LR</span><br><span class="line">A[方形] --&gt;B(圆角)</span><br><span class="line">    B --&gt; C&#123;条件a&#125;</span><br><span class="line">    C --&gt;|a=1| D[结果1]</span><br><span class="line">    C --&gt;|a=2| E[结果2]</span><br><span class="line">    F[横向流程图]</span><br></pre></td></tr></table></figure><table><thead><tr><th align="center">表头</th><th align="center">条目一</th><th align="center">条目二</th></tr></thead><tbody><tr><td align="center">项目</td><td align="center">项目一</td><td align="center">项目二</td></tr></tbody></table><p><img src="images/bj.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;1-一级&quot;&gt;&lt;a href=&quot;#1-一级&quot; class=&quot;headerlink&quot; title=&quot;1. 一级&quot;&gt;&lt;/a&gt;1. 一级&lt;/h1&gt;&lt;p&gt;546&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;333&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&lt;em&gt;546&lt;/em&gt;&lt;/p&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://chenyuling.top/2021/11/11/hello-world/"/>
+    <id>https://chenyuling.top/2021/11/11/hello-world/</id>
+    <published>2021-11-10T16:35:29.871Z</published>
+    <updated>2021-11-10T16:35:29.871Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
