@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>zoro&#39;s blog</title>
+  <title>zoro</title>
   
-  <subtitle>加入生活欺骗了你，不要悲伤，不要心急，更多的坑在前方等你</subtitle>
+  <subtitle>不祈富贵，但求永生</subtitle>
   <link href="https://chenyuling.top/atom.xml" rel="self"/>
   
   <link href="https://chenyuling.top/"/>
-  <updated>2021-11-18T11:47:03.858Z</updated>
+  <updated>2021-11-18T15:25:12.623Z</updated>
   <id>https://chenyuling.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://chenyuling.top/2021/11/17/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
     <id>https://chenyuling.top/2021/11/17/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/</id>
     <published>2021-11-17T08:57:10.000Z</published>
-    <updated>2021-11-18T11:47:03.858Z</updated>
+    <updated>2021-11-18T15:25:12.623Z</updated>
     
     <content type="html"><![CDATA[<span id="more"></span> <p><a href="https://zhuanlan.zhihu.com/p/26625249">GitHub+Hexo 搭建个人网站详细教程</a><br><a href="https://hexo.io/zh-cn/docs/configuration.html">_config.yml配置</a>  </p>]]></content>
     
@@ -34,6 +34,10 @@
       
     
     
+    
+    <category term="工具" scheme="https://chenyuling.top/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="网站" scheme="https://chenyuling.top/categories/%E5%B7%A5%E5%85%B7/%E7%BD%91%E7%AB%99/"/>
     
     
   </entry>
